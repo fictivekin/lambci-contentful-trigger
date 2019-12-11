@@ -1,0 +1,5 @@
+Flask
+requests
+PyGithub
+tqdm=4.32.1
+zappa
